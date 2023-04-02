@@ -1,0 +1,37 @@
+2023-03-31 14:30:06,909 INFO  [Log] Application Opened Successfully 
+2023-03-31 14:30:09,547 INFO  [Log] Application Login Successfully 
+2023-03-31 14:30:12,646 INFO  [Log] Logout from Application Successfully 
+2023-03-31 14:30:15,836 INFO  [Log] Application Closed Successfully 
+2023-04-01 11:34:25,996 INFO  [Log] Application Opened Successfully 
+2023-04-01 11:34:32,353 INFO  [Log] Application Login Successfully 
+2023-04-01 11:34:35,397 INFO  [Log] Logout from Application Successfully 
+2023-04-01 11:34:38,487 INFO  [Log] Application Closed Successfully 
+2023-04-01 11:34:41,769 INFO  [Log] Application Opened Successfully 
+2023-04-01 11:34:44,526 INFO  [Log] Application Login Successfully 
+2023-04-01 11:34:47,563 INFO  [Log] Entered into Frame Successfully 
+2023-04-01 11:34:57,275 INFO  [Log] Employee Added Successfully 
+2023-04-01 11:35:00,285 INFO  [Log] Exit From Frame Successfully 
+2023-04-01 11:35:00,321 INFO  [Log] Logout from Application Successfully 
+2023-04-01 11:35:03,547 INFO  [Log] Application Closed Successfully 
+2023-04-01 11:35:06,934 INFO  [Log] Application Opened Successfully 
+2023-04-01 11:35:10,998 INFO  [Log] Application Login Successfully 
+2023-04-01 11:35:14,034 INFO  [Log] Entered into Frame Successfully 
+2023-04-01 11:35:16,107 INFO  [Log] Clicked on any Employee Name 
+2023-04-01 11:35:36,549 INFO  [Log] Employee details Edit Successfully 
+2023-04-01 11:35:36,553 INFO  [Log] Exit From Frame Successfully 
+2023-04-01 11:35:36,600 INFO  [Log] Logout from Application Successfully 
+2023-04-01 11:35:39,833 INFO  [Log] Application Closed Successfully 
+2023-04-01 11:35:43,197 INFO  [Log] Application Opened Successfully 
+2023-04-01 11:35:44,967 INFO  [Log] Application Login Successfully 
+2023-04-01 11:35:47,993 INFO  [Log] Entered into Frame Successfully 
+2023-04-01 11:35:48,055 INFO  [Log] Selected SearchBy option 
+2023-04-01 11:35:54,605 INFO  [Log] Clicked on Search Button 
+2023-04-01 11:41:19,029 INFO  [Log] Application Opened Successfully 
+2023-04-01 11:41:21,237 INFO  [Log] Application Login Successfully 
+2023-04-01 11:41:24,292 INFO  [Log] Logout from Application Successfully 
+2023-04-01 11:41:27,378 INFO  [Log] Application Closed Successfully 
+2023-04-01 11:41:30,828 INFO  [Log] Application Opened Successfully 
+2023-04-01 11:41:33,610 INFO  [Log] Application Login Successfully 
+2023-04-01 11:41:36,638 INFO  [Log] Entered into Frame Successfully 
+2023-04-01 11:41:36,756 INFO  [Log] Selected SearchBy option 
+2023-04-01 11:41:43,363 INFO  [Log] Clicked on Search Button 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite 1]">
+  <test parallel="none" name="HRMS(failed)">
+    <classes>
+      <class name="com.hrms.AScripts.TC004_DeleteEmp">
+        <methods>
+          <include name="deleteEmp"/>
+        </methods>
+      </class> <!-- com.hrms.AScripts.TC004_DeleteEmp -->
+    </classes>
+  </test> <!-- HRMS(failed) -->
+</suite> <!-- Failed suite [Suite 1] -->

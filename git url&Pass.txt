@@ -1,0 +1,2 @@
+url:       https://github.com/gurukamble/Automation-Testing.git
+Password:  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
